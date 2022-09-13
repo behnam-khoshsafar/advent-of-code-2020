@@ -10,10 +10,13 @@ fun main() {
     println("Max seat ID: $maxID")
 
     val occupiedSeatsSet = seatIDs.toSet()
+
     fun isOccupied(seat: Int) = seat in occupiedSeatsSet
+
     val mySeat = (1..maxID).find { index ->
         !isOccupied(index) && isOccupied(index - 1) && isOccupied(index + 1)
     }
+
     println("My seat ID: $mySeat")
 
     // Alternative solution:
