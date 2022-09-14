@@ -1,4 +1,4 @@
-package tips
+package tips.intro
 
 fun main() {
     println(joinOptions(listOf("a","b","c")))

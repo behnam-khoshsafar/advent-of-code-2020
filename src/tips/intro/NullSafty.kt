@@ -1,4 +1,4 @@
-package tips
+package tips.intro
 
 fun sendMessageToClient(
     client: Client?, message: String?, mailer: Mailer

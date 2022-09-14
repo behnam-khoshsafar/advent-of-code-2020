@@ -1,4 +1,4 @@
-package tips
+package tips.intro
 
 const val question = "life, the universe, and everything"
 const val answer = 42
