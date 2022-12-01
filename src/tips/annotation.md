@@ -1,0 +1,1 @@
+[Enum](https://kotlinlang.org/docs/enum-classes.html)

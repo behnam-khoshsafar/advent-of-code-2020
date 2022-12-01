@@ -1,0 +1,1 @@
+[Inline-class](https://kotlinlang.org/docs/inline-classes.html#inline-classes-and-delegation)

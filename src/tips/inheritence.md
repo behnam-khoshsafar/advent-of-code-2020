@@ -1,0 +1,1 @@
+[Inheritance](https://kotlinlang.org/docs/inheritance.html#derived-class-initialization-order)

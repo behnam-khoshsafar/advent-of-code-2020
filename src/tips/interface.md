@@ -1,0 +1,1 @@
+[Interface](https://kotlinlang.org/docs/interfaces.html)
